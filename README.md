@@ -11,15 +11,15 @@ This Python script creates an interactive visualization of unemployment data for
 
 ## Features
 
-- Interactive choropleth map of Washington State counties
+- Interactive choropleth map of State counties
 - Detailed table of unemployment statistics
 - Data from May 2024 (projected)
 
 ## How It Works
 
 1. **Data Retrieval:**
-   - Geographical data: Downloaded from the US Census Bureau
-   - Unemployment data: Fetched from the Washington State Employment Security Department
+   - WA and CA Geographical data: Downloaded from the US Census Bureau
+   - WA and CA Unemployment data: Fetched from the Washington State Employment Security Department
 
 2. **Data Processing:**
    - County names are normalized and matched between datasets
@@ -38,8 +38,8 @@ This Python script creates an interactive visualization of unemployment data for
 
 ## Data Sources
 
-- Geographical Data: [US Census Bureau TIGER/Line Shapefiles](https://www2.census.gov/geo/tiger/TIGER2023/COUNTY/tl_2023_us_county.zip)
-- Unemployment Data: [Washington State Employment Security Department](https://media.esd.wa.gov/esdwa/Default/ESDWAGOV/labor-market-info/Libraries/Regional-reports/LAUS/Unemployment%20Statistics%20by%20County%20-%20May%202024.xlsx)
+- WA and CA Geographical Data: [US Census Bureau TIGER/Line Shapefiles](https://www2.census.gov/geo/tiger/TIGER2023/COUNTY/tl_2023_us_county.zip)
+- WA Unemployment Data: [Washington State Employment Security Department](https://media.esd.wa.gov/esdwa/Default/ESDWAGOV/labor-market-info/Libraries/Regional-reports/LAUS/Unemployment%20Statistics%20by%20County%20-%20May%202024.xlsx)
 
 ## Usage
 
@@ -50,7 +50,7 @@ This Python script creates an interactive visualization of unemployment data for
 ## Output
 
 - An interactive Plotly figure with two components:
-1. A choropleth map of Washington State, color-coded by unemployment rate
+1. A choropleth map of State, color-coded by unemployment rate
 2. A table listing detailed unemployment statistics for each county
 
 ## Note
