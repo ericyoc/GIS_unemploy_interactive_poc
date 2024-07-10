@@ -1,6 +1,6 @@
-# Washington State Unemployment Data Visualization
+# Washington and Califorina State Unemployment By County Data Visualization
 
-This Python script creates an interactive visualization of unemployment data for Washington State counties. It combines geographical data with unemployment statistics to produce a choropleth map and a detailed table.
+This Python script creates an interactive visualization of unemployment data for Washington and California State counties. It combines geographical data with unemployment statistics to produce a choropleth map and a detailed table.
 
 ## Interactive Map - Washington State Unemployment by County
 ![](https://github.com/ericyoc/WA_unemploy_interactive_poc/blob/main/wa_state_unemploy_interactive_map.jpg)
