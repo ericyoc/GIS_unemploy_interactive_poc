@@ -40,6 +40,7 @@ This Python script creates an interactive visualization of unemployment data for
 
 - WA and CA Geographical Data: [US Census Bureau TIGER/Line Shapefiles](https://www2.census.gov/geo/tiger/TIGER2023/COUNTY/tl_2023_us_county.zip)
 - WA Unemployment Data: [Washington State Employment Security Department](https://media.esd.wa.gov/esdwa/Default/ESDWAGOV/labor-market-info/Libraries/Regional-reports/LAUS/Unemployment%20Statistics%20by%20County%20-%20May%202024.xlsx)
+- CA Unemployment Data: (https://labormarketinfo.edd.ca.gov/data/interactive-labor-market-data-tools.html)
 
 ## Usage
 
