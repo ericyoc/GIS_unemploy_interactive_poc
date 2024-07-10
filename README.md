@@ -19,7 +19,7 @@ This Python script creates an interactive visualization of unemployment data for
 
 1. **Data Retrieval:**
    - WA and CA Geographical data: Downloaded from the US Census Bureau
-   - WA and CA Unemployment data: Fetched from the Washington State Employment Security Department
+   - WA and CA Unemployment data: Fetched from the State Employment Security Department
 
 2. **Data Processing:**
    - County names are normalized and matched between datasets
